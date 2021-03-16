@@ -1,0 +1,6 @@
+/certificados/*
+/vendor
+.env
+.data.csv
+composer.lock
+src/images/*
